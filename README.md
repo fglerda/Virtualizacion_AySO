@@ -1,5 +1,7 @@
 # Virtualizacion_AySO
-Proyecto de Virtualización con VirtualBox y Ubuntu
+
+Proyecto de Virtualización con VirtualBox y Ubuntu Desktop
+
 
 🚀 Descripción del Proyecto
 
