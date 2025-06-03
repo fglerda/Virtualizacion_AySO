@@ -1,5 +1,5 @@
 # Virtualizacion_AySO
-Proyecto de Virtualización: Servidor Web con VirtualBox y Ubuntu Server
+Proyecto de Virtualización con VirtualBox y Ubuntu
 
 🚀 Descripción del Proyecto
 
