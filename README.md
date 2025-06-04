@@ -59,6 +59,9 @@ Distribución de Teclado en la Terminal de la VM:** Diferencias en la ubicación
  Lerda Fernando – fglerda@gmail.com
  Lopez Joana – Jl105658@gmail.com
 
+ 📽️ link al video explicativo:
+ https://youtu.be/2DWsx8Q81NU
+
 🗓️ Fecha de Entrega
 
 5 de junio de 2025
